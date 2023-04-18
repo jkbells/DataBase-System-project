@@ -10,20 +10,35 @@ This is a web based Application to manage sales of Auto spare parts.
 * Now you're all done! just open in browser - http://localhost/spare_parts_management
 
 
-![1](https://user-images.githubusercontent.com/73393333/232834266-64212469-1eab-4d6f-8f28-382cc61a80c2.png)
-![2](https://user-images.githubusercontent.com/73393333/232834307-9acb7089-84af-4e16-a292-421af9bb962b.png)
-![3](https://user-images.githubusercontent.com/73393333/232834322-57f0f9b9-fac2-4abf-8e2e-be070639f99a.png)
-![4](https://user-images.githubusercontent.com/73393333/232834351-d16e1419-31aa-4722-9197-d7f6b35734f9.png)
-![5](https://user-images.githubusercontent.com/73393333/232834367-fd41ee4c-9a77-4085-b37a-8dda6525cd68.png)
-![6](https://user-images.githubusercontent.com/73393333/232834400-7e409536-2693-4429-bf81-02d8c6941f32.png)
-![7](https://user-images.githubusercontent.com/73393333/232834411-13f35f09-5ddf-471c-bc8b-9dc708c19238.png)
-![8](https://user-images.githubusercontent.com/73393333/232834425-ad850c3e-b084-455c-a751-c7d3dfe3884e.png)
-![9](https://user-images.githubusercontent.com/73393333/232834443-e0e593f4-8c56-4138-b341-8add48f209f7.png)
-![10](https://user-images.githubusercontent.com/73393333/232834465-f0415992-5d1d-43db-9d35-c1334259e115.png)
-![11](https://user-images.githubusercontent.com/73393333/2328345
-![12](https://user-images.githubusercontent.com/73393333/232834537-13aa9730-5ec8-4415-aff4-9c2957926b90.png)
-07-162795e0-bd8a-4d54-986e-3e9ce25f99d8.png)
-![13](https://user-images.githubusercontent.com/73393333/232834694-153c70ef-f6fe-40ed-83fc-56fde291c179.png)
-![14](https://user-images.githubusercontent.com/73393333/232834766-f97b8a10-c3e2-4c12-a29b-1d1fca3e47ad.png)
-![15](https://user-images.githubusercontent.com/73393333/232834788-4a8f8b56-de86-4bdd-8cad-0c24cee2bc9f.png)
-![16](https://user-images.githubusercontent.com/73393333/232834827-4edfde55-c130-4b96-b1f4-ff80ace66b6a.png)
+# Admin
+![1](https://user-images.githubusercontent.com/73393333/232835175-0ee1db7f-35f7-409c-951c-bde2d4a4dae8.png)
+![2](https://user-images.githubusercontent.com/73393333/232835246-3842a448-cf52-4197-8c20-41660ac3bd8d.png)
+# Home Page
+![3](https://user-images.githubusercontent.com/73393333/232835341-d1e01405-80e3-40b1-972a-b9b84d4effc6.png)
+# Customer
+![4](https://user-images.githubusercontent.com/73393333/232835427-1f30341d-f4b8-418d-ae85-1404c11c5399.png)
+# Add Customer
+![5](https://user-images.githubusercontent.com/73393333/232835497-659cc052-e8c9-42da-a8c6-6e39f581b9d7.png)
+# Edit Customer
+![6](https://user-images.githubusercontent.com/73393333/232835578-df7da697-480f-48e7-bf03-22942d910a84.png)
+# Employee
+![7](https://user-images.githubusercontent.com/73393333/232835669-0485183e-9c69-4227-a291-739895a9fdb3.png)
+# Add Employee
+![8](https://user-images.githubusercontent.com/73393333/232835741-8bdd0b62-1781-4bb9-a25d-bd74391aa316.png)
+# Edit Employee
+![9](https://user-images.githubusercontent.com/73393333/232835812-32860d91-fc72-419c-86bb-2e4fcd7df63f.png)
+# spare Parts
+![10](https://user-images.githubusercontent.com/73393333/232835883-b97a563d-55e1-4b30-b227-4e6aea10c6ac.png)
+# Add Spare parts
+![11](https://user-images.githubusercontent.com/73393333/232835948-4a6479c8-335c-4c4e-b5b1-637639d62812.png)
+# Edit Product
+![12](https://user-images.githubusercontent.com/73393333/232836044-0280763a-e193-467c-bdea-1db9bade2697.png)
+# Transaction
+![13](https://user-images.githubusercontent.com/73393333/232836121-0ef16783-a64b-4d25-8c87-823fd7b76db0.png)
+# See Transaction
+![14](https://user-images.githubusercontent.com/73393333/232836219-1755efdc-9ddd-43a4-a151-d222b36c2ccc.png)
+# suppliers
+![15](https://user-images.githubusercontent.com/73393333/232836320-d31f33ea-3fad-4589-9409-c93d3331163f.png)\fsda
+# Edit Suppliers
+![16](https://user-images.githubusercontent.com/73393333/232836476-78ccbe63-7b4a-430e-b13d-e33ce004b9b4.png)
+
